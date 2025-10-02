@@ -28,6 +28,6 @@ It showcases my skills, projects, and experience as a **WordPress & Frontend Dev
 
 ## 📧 Contact
 If you’d like to work together or have any questions:  
-- Email: `your-email@example.com`  
-- LinkedIn: [linkedin.com/in/your-profile](#)  
+- Email: `qasimarain33@gmail.com`  
+- LinkedIn: (https://www.linkedin.com/in/qasimarain/)  
 - GitHub: [github.com/qasim-wpdev](https://github.com/qasim-wpdev)
